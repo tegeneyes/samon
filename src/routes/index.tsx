@@ -8,6 +8,14 @@ import { TRACKS, thumb, CHANNEL_URL, type Track } from "@/lib/tracks";
 import { ArtCard, DetailModal, EmbedModal, MiniPlayer, Nav, ScrollProgress } from "@/components/samon/ui";
 import { cn } from "@/lib/utils";
 
+function Page() {
+  return (
+    <PlayerProvider>
+      <PageContent />
+    </PlayerProvider>
+  );
+}
+
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
@@ -26,9 +34,10 @@ export const Route = createFileRoute("/")({
       { name: "twitter:image:alt", content: "SAMON fan tribute website preview" },
     ],
   }),
-  component: () => (
-    <PlayerProvider>
-      <Page />
-    </PlayerProvider>
-  ),
+  component: Page,
 });
+
+const T = (id: string) => TRACKS.find((t) => t.id === id)!;
+
+function PageContent() {
+  const root = useRef<HTMLDivElement>(null);
