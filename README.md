@@ -11,7 +11,7 @@ A heartfelt fan tribute website celebrating the voice, energy, and artistry of a
 
 SAMON is a personal fan-made experience built with love for the music, performances, and connection that make this artist unforgettable. It blends a warm, immersive design with a gallery-like feel to showcase the passion of a devoted fan community.
 
-## ✨ About the project
+## About the project
 
 This project was created as a tribute to a singer whose music has inspired, comforted, and energized countless listeners. The website captures that admiration through:
 
@@ -20,13 +20,13 @@ This project was created as a tribute to a singer whose music has inspired, comf
 - a clean, modern design that feels premium and personal
 - a strong sense of identity and community for supporters
 
-## 🌙 Design vibe
+## Design vibe
 
 The aesthetic is centered around emotion, atmosphere, and admiration — soft gradients, elegant type, layered cards, and modern UI patterns that feel both stylish and heartfelt.
 
 Whether it’s the stage energy, the vocals, or the deep connection fans feel, this project reflects the joy of celebrating someone truly special.
 
-## 🎵 Highlights
+## Highlights
 
 - Tribute-style fan homepage
 - Elegant, responsive layout
@@ -34,7 +34,7 @@ Whether it’s the stage energy, the vocals, or the deep connection fans feel, t
 - Thoughtful storytelling and brand atmosphere
 - Personalized to feel like an online fan shrine
 
-## 🛠️ Tech stack
+## Tech stack
 
 - React
 - TypeScript
@@ -42,7 +42,7 @@ Whether it’s the stage energy, the vocals, or the deep connection fans feel, t
 - Tailwind CSS
 - TanStack Start
 
-## 🚀 Getting started
+## Getting started
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ npm run dev
 
 Then open the local URL shown in your terminal to view the site.
 
-## 📁 Project structure
+## Project structure
 
 ```text
 .
@@ -78,13 +78,13 @@ Then open the local URL shown in your terminal to view the site.
 └── README.md
 ```
 
-## 💖 Why this exists
+## Why this exists
 
 This isn’t just a website — it’s a fan expression.
 
 SAMON was built to honor a voice that leaves a mark on the heart. It’s a place where admiration becomes art, and where the love for music is shared with the world.
 
-## 🧑‍💻 Built with love
+## Built with love
 
 Created as a personal tribute and fan-based web experience.
 
