@@ -66,7 +66,7 @@ Then open the local URL shown in your terminal to view the site.
 
 ```text
 .
-├���─ src/
+├── src/
 │   ├── components/
 │   ├── routes/
 │   ├── styles/
