@@ -8,7 +8,7 @@ import { TRACKS, thumb, CHANNEL_URL, type Track } from "@/lib/tracks";
 import { ArtCard, DetailModal, EmbedModal, MiniPlayer, Nav, ScrollProgress } from "@/components/samon/ui";
 import { cn } from "@/lib/utils";
 
-function Page() {
+export function Page() {
   return (
     <PlayerProvider>
       <PageContent />
