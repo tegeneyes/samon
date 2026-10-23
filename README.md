@@ -2,6 +2,10 @@
 
 A heartfelt fan tribute website celebrating the voice, energy, and artistry of an incredible singer.
 
+## Website preview
+
+[![SAMON website preview](https://image.thum.io/get/width/1200/https://samon-tege.vercel.app)](https://samon-tege.vercel.app/)
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-5-3178c6?style=for-the-badge&logo=typescript" alt="TypeScript 5" />
@@ -9,7 +13,7 @@ A heartfelt fan tribute website celebrating the voice, energy, and artistry of a
   <img src="https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite" alt="Vite 8" />
 </p>
 
-SAMON is a personal fan-made experience built with love for the music, performances, and connection that make this artist unforgettable. It blends a warm, immersive design with a gallery-like feel to showcase the passion of a devoted fan community.
+SAMON is a personal fan-made experience built with love for the music, performances, and connection that make this artist unforgettable. It blends a warm, immersive design with a gallery-like feel [...] 
 
 ## About the project
 
