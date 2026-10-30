@@ -4,7 +4,6 @@ A heartfelt fan tribute website celebrating the voice, energy, and artistry of a
 
 ## Website preview
 
-[![SAMON website preview](https://image.thum.io/get/width/1200/https://samon-tege.vercel.app)](https://samon-tege.vercel.app/)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react" alt="React 19" />
