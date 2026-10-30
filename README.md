@@ -1,55 +1,40 @@
 # SAMON
 
-A heartfelt fan tribute website celebrating the voice, energy, and artistry of an incredible singer.
-
-## Website preview
-
+A heartfelt tribute website celebrating the voice, energy, and artistry of an incredible singer.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178c6?style=for-the-badge&logo=typescript" alt="TypeScript 5" />
-  <img src="https://img.shields.io/badge/Tailwind-4-38bdf8?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite" alt="Vite 8" />
+  <img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1600&q=80" alt="SAMON tribute hero art" width="1200" />
 </p>
 
-SAMON is a personal fan-made experience built with love for the music, performances, and connection that make this artist unforgettable. It blends a warm, immersive design with a gallery-like feel [...] 
+## Overview
 
-## About the project
-
-This project was created as a tribute to a singer whose music has inspired, comforted, and energized countless listeners. The website captures that admiration through:
-
-- a visually rich landing experience
-- fan-favorite moments and highlights
-- a clean, modern design that feels premium and personal
-- a strong sense of identity and community for supporters
-
-## Design vibe
-
-The aesthetic is centered around emotion, atmosphere, and admiration — soft gradients, elegant type, layered cards, and modern UI patterns that feel both stylish and heartfelt.
-
-Whether it’s the stage energy, the vocals, or the deep connection fans feel, this project reflects the joy of celebrating someone truly special.
+SAMON is a fan-made experience built with love for the music, performances, and personal connection that make this artist unforgettable. The site blends immersive visuals, warm storytelling, and a modern interface to create a digital fan shrine that feels intimate, elegant, and expressive.
 
 ## Highlights
 
 - Tribute-style fan homepage
-- Elegant, responsive layout
-- Modern UI built with React + Tailwind
-- Thoughtful storytelling and brand atmosphere
-- Personalized to feel like an online fan shrine
+- Premium, responsive layout
+- Refined modern UI with React and Tailwind
+- Atmosphere-driven design inspired by music, emotion, and admiration
+- Built to celebrate artistry, fandom, and community
 
-## Tech stack
+## Tech Stack
 
-- React
+- React 19
 - TypeScript
 - Vite
 - Tailwind CSS
 - TanStack Start
 
+## Why this project exists
+
+This is more than a website—it is an expression of appreciation. SAMON was created to honor the voice and presence that leave a lasting impression on listeners. It is designed to capture the feeling of admiration, inspiration, and connection that fans share.
+
 ## Getting started
 
 ### Prerequisites
 
-Make sure you have installed:
+Make sure you have the following installed:
 
 - Node.js
 - npm
@@ -57,7 +42,7 @@ Make sure you have installed:
 ### Install and run
 
 ```bash
-git clone <this-repository-url>
+git clone <repository-url>
 cd <repository-name>
 npm install
 npm run dev
@@ -78,21 +63,16 @@ Then open the local URL shown in your terminal to view the site.
 ├── package.json
 ├── vite.config.ts
 ├── tsconfig.json
-└── README.md
+├── README.md
+└── src/styles.css
 ```
 
-## Why this exists
-
-This isn’t just a website — it’s a fan expression.
-
-SAMON was built to honor a voice that leaves a mark on the heart. It’s a place where admiration becomes art, and where the love for music is shared with the world.
-
-## Built with love
+## Built with passion
 
 Created as a personal tribute and fan-based web experience.
 
-If you love this project, feel free to star it, share it, and keep supporting the artist who inspired it.
+If you love this project, feel free to share it, star it, and keep supporting the artist who inspired it.
 
 ---
 
-Made with passion, music, and devotion.
+Made with love, music, and devotion.
